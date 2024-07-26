@@ -54,7 +54,7 @@ Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hat
 	- Themen: Coming-of-Age, Hochbegabung, Selbstvertrauen, sektiererische Bewegung, Ausgrenzung
 	- Illustration der Hauptfiguren
 	- Rohfassungen der Manuskripte sind in Überarbeitung
-- **Blog [Stadtkönigin](https://www.msp-world.de/stadtkoenigin/)** 
+- **Blog [Stadtkönigin](https://www.stadtkoenigin.de/)** 
 	- Blog mit illustrierten Artikeln über die kleinen Dinge, die einem in der Stadt begegnen
 	- aktuelle Reihe von Blogartikeln über die Berliner Plattenbausiedlungen
 	- Recherche, Illustration, Fotografie sowie Audio- und Video-Experimente
