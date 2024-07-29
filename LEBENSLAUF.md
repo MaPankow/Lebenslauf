@@ -4,7 +4,8 @@
 **Wohnort:** Berlin
 **Geburtsdatum:** 09.11.1985
 
-![Foto von Martina Sophie Pankow](MaPankow.jpg)
+![Foto von Martina Sophie Pankow](src/MaPankow.jpg)
+
 
 
 ## Profil
@@ -23,11 +24,16 @@ Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hat
 	- Programmiersprachen Java, Python, PHP, JavaScript
 	- Frameworks Spring, Django, Laravel, NodeJs
 	- Code-Versionierung mit GitHub
+	- Übungsprojekt Anwendung für Django: https://github.com/MaPankow/Restaurant-Django-exercise
+	- Übungsprojekt Anwendung für Java Spring: https://github.com/MaPankow/Orders-Spring-exercise
+
 2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - vrsl. 11.11.2024):**
 	- Datenbanken MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
 	- UML-Diagramme
 	- Projektmanagement-Modelle SCRUM, Kanban, ... sowie Tools Miro, Obsidian
 	- Markdown-Language
+
+
 
 ### Online-Kurse bei codecademy.com
 - Learn HTML (XX.01.2024)
