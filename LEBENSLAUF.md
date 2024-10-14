@@ -42,8 +42,8 @@ Als Pforte zur Programmierung für Web-Apps möchte ich mich hierbei auf die Pro
 
 
 ### Online-Kurse bei codecademy.com
-- Code Foundations (24.08.2024): [Zertifikat Code Foundations](/code_foundations.pdf)
-- Java intro (24.08.2024): [Zertifikat Java Intro](/Java_intro.pdf)
+- Code Foundations (24.08.2024): [Zertifikat Code Foundations](/src/code_foundations.pdf)
+- Java intro (24.08.2024): [Zertifikat Java Intro](/src/Java_intro.pdf)
 
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
