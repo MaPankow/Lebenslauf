@@ -9,16 +9,19 @@
 
 
 ## Profil
-Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hatte ich öfter Berührung mit Webseiten und Web-Anwendungen. Für mich war es an der Zeit, die geheimnisvolle Welt dahinter zu entdecken und zu lernen, was im Backend vor sich geht. Nach den ersten Schritten und Programmierungen möchte ich als Java-Entwicklerin arbeiten.
+Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hatte ich öfter Berührung mit Webseiten und Web-Anwendungen. Für mich war es an der Zeit, die geheimnisvolle Welt dahinter zu entdecken und zu lernen, was im Backend vor sich geht. Im Rahmen einer Weiterbildung bin ich erste Schritte in die Welt der Progammierung von Anwendungen und Datenbanken sowie das Datenbankdesign gegangen. Von hier aus möchte ich mich weiter einarbeiten und mir nach und nach bei der Arbeit Fachkenntnisse aneignen und vertiefen.
+
+Als Pforte zur Programmierung für Web-Apps möchte ich mich hierbei auf die Programmiersprache Java konzentrieren. Außerdem habe ich ein Interesse an der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
+
 ## Programmierkenntnisse
-**Programmiersprachen:** **Java,** Python, PHP, JavaScript
+**Programmiersprachen:** **Java,** **SQL,** Python, PHP, JavaScript
 **Frameworks:** **Spring,** Django, Laravel, NodeJS
-**Tools:** Git, GitHub, Obsidian, Postman, Obsidian, Miro
+**Tools:** VS CodeGit, GitHub, Obsidian, Postman, Miro
 **Datenbanken:** MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
 
-## Zertifikate Programmieren
+## Zertifikate für Backend-Entwicklung, Programmiersprachen und Datenbankenentwicklung
 
-### von 03/2024 bis 11/2024: Weiterbildung  bei Bergemann & Höhne
+### von 03/2024 bis 11/2024: Weiterbildung bei Bergemann & Höhne
 
 1. **Modul Backend-Developer (11.03.2024 - 09.07.2024):** 
 	- Programmiersprachen Java, Python, PHP, JavaScript
@@ -29,15 +32,19 @@ Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hat
 
 2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - vrsl. 11.11.2024):**
 	- Datenbanken MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
-	- UML-Diagramme
-	- Projektmanagement-Modelle SCRUM, Kanban, ... sowie Tools Miro, Obsidian
-	- Markdown-Language
+	- Datenbankdesign und Modellierung
+	- Übungsprojekt MariaDB und SQLite: https://github.com/MaPankow/Artivity---Datenbankenprojekt-mit-MariaDB-und-SQLite
+	- Übungsprojekt PostgreSQL: https://github.com/MaPankow/PostgreSQL_Onlineshop
+	- Übungsprojekt MongoDB: https://github.com/MaPankow/MongoDB_Rezepte_Social_Network
+	- Grundlagen des Projektmanagents (Aufbau, starre und agile Modelle, SCRUM-Methode)
+	
 
 
 
 ### Online-Kurse bei codecademy.com
-- Learn HTML (XX.01.2024)
-- Learn CSS (XX.02.2024)
+- Code Foundations (24.08.2024): [Zertifikat Code Foundations](/code_foundations.pdf)
+- Java intro (24.08.2024): [Zertifikat Java Intro](/Java_intro.pdf)
+
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
 
