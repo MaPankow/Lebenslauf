@@ -9,15 +9,15 @@
 
 
 ## Profil
-Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hatte ich öfter Berührung mit Webseiten und Web-Anwendungen. Ich hatte selbst für mein Protfolio eine Webseite sowie einen Blog erstellt, diese alllerdings mit dem Content-Management-System WordPress. Für mich war es an der Zeit, die geheimnisvolle Welt dahinter zu entdecken und zu lernen, was im Backend vor sich geht. Im Rahmen einer Weiterbildung bin ich erste Schritte in die Welt der Progammierung von Anwendungen und Datenbanken sowie das Datenbankdesign gegangen. Von hier aus möchte ich mich weiter einarbeiten und mir nach und nach Fachkenntnisse aneignen und vertiefen.
+Nach dem Studium für Kommunikationsdesign arbeitete ich als selbständige Illustratorin, Designerin und Autorin und hatte öfter Berührung mit dem Erstellen von Webseiten. Um mich online zu präsentieren, erstellte ich mein Portfolio und einen Blog, damals mit dem Content-Management-System WordPress. Nun ist für mich die Zeit und endgültige Faszination gekommen, richtig in die Welt des Programmierens einzusteigen und zu lernen, was im Backend von Web-Anwendungen vor sich geht und wie man mit Programmiersprachen programmiert. Im Rahmen einer Weiterbildung bin ich erste Schritte in Richtung Backend-Entwicklung und Datenbankdesign gegangen.
 
-Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf die Programmiersprache Java. Zusätzlich habe ich ein Interesse an der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
+Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Entwicklung mobiler Apps kennen und konzentriere mich jetzt darauf, Java grundlegend zu erlernen. Zusätzlich habe ich ein großes Interesse an SQL und der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
 
 ## Programmierkenntnisse
 **Programmiersprachen:** **Java,** **SQL,** Python, PHP, JavaScript
-**Frameworks:** **Spring,** Django, Laravel, NodeJS
-**Tools:** VS CodeGit, GitHub, Obsidian, Postman, Miro
 **Datenbanken:** MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
+**Frameworks:** **Spring,** Django, Laravel, NodeJS
+**Tools:** VS Code, Git, GitHub, Obsidian, Postman
 
 ## Zertifikate für Backend-Entwicklung, Programmiersprachen und Datenbankenentwicklung
 
@@ -37,7 +37,7 @@ Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf
 	- Übungsprojekt MariaDB und SQLite: https://github.com/MaPankow/Artivity---Datenbankenprojekt-mit-MariaDB-und-SQLite
 	- Übungsprojekt PostgreSQL: https://github.com/MaPankow/PostgreSQL_Onlineshop
 	- Übungsprojekt MongoDB: https://github.com/MaPankow/MongoDB_Rezepte_Social_Network
-	- Grundlagen des Projektmanagents (Aufbau, starre und agile Modelle, SCRUM-Methode)
+	- Grundlagen des Projektmanagements (Einführung in traditionelle und agile Modelle, SCRUM)
 	
 
 ### Online-Kurse bei codecademy.com
@@ -47,17 +47,17 @@ Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
 
-
-
-### Berufliche  Kenntnisse
-- **Adobe Creative Cloud** (insbesondere Illustrator und InDesign, sonst Photoshop, Fresco, Lightroom und Grundkenntnisse in Video- und Audioschnittprogrammen)
-- **Illustration per Hand und digital:**  Lernmaterialien für Kinder und und Erwachsene, Sympathiefiguren, Kinder- und Jugendbuch
+### Berufliche Kenntnisse
+- **Adobe Creative Cloud:** insbesondere Illustrator und InDesign, sonst Photoshop, Fresco, Lightroom und Grundkenntnisse in Video- und Audioschnittprogrammen
+- **Illustration per Hand und digital:** Lernmaterialien für Kinder und Erwachsene, Sympathiefiguren, Kinder- und Jugendbuch
 - **Layout und Druckvorbereitung für eine Zeitschrift** sowie redaktionelle Mitarbeit und Absprache mit den AutorInnen
 - **Illustratorin und Autorin des Kinderbuches "Der Traum vom großen Paradies",** erschienen beim Abent(h)euer Verlag; Präsentation des Buches bei Lesungen und einer Fortbildung für Lehrkräfte sowie Ausstellung und Lesung beim Kunstfestival 48 Stunden Neukölln
-- **Kundenakquise:** Präsentation meiner Arbeiten auf Buch- und Bildungsmessen, auf Social Media sowie auf meinem [Online-Portfolio](https://www.msp-world.de/)
+- **Kundenakquise:** Präsentation meiner Arbeiten auf Buch- und Bildungsmessen, auf Social Media sowie auf meinen Websites
+- **Übersicht über meine Arbeiten und Projekte:** [Online-Portfolio](https://www.msp-world.de/)
 
 
-### Projekte
+
+### Projekte als Autorin, Illustratorin und Grafikerin
 - **Jugendbuchprojekt Berlin Overload:** 
 	- zweiteilige Climate-Fiction-Serie
 	- Themen: Klimawandel, soziale Ausgrenzung, Rechtsextremismus, Coming-of-Age
@@ -76,7 +76,7 @@ Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf
 ## Bildungsweg
 
 ### Studium Kommunikationsdesign B. A.
-**09.2007 - 03.2012 and der FH Düsseldorf**
+**09.2007 - 03.2012 an der FH Düsseldorf**
 - Projektarbeiten allein und in Gruppen
 - Durchführung verschiedener künstlerischer und gestalterischer Projekte von der Planung und Konzeption bis zur Fertigstellung
 - häufige Präsentationen und Feedback
@@ -99,12 +99,5 @@ Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf
 
 ## Hobbys und Interessen
 - Wandern und neue Orte entdecken
-- Singen (Mitglied im Chor Vokens T der Joseph-Schmidt-Musikschule)
+- Singen (Mitglied im Erwachsenenchor Vokens T der Joseph-Schmidt-Musikschule)
 - Portugiesische Kultur (Mitglied im Verein Deutsch-Portugiesische Gesellschaft e.V.)
-
-
-
-
-
-
-

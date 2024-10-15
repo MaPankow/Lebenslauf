@@ -1,7 +1,6 @@
 # Über mich
-Willkommen auf meiner GitHub-Seite. Hier finden Sie einen kurzen Überblick über mich und meine Projekte.
-
-## Lebenslauf
+Hallo, ich bin Martina Sophie Pankow, studierte Kommunikationsdesignerin und angehende Backend-Entwicklerin.
+Nach einer 8-monatigen Weiterbildung in den Bereichen Backend-Entwicklung, Datenbankentwicklung und Projektmanagement erweitere ich stets meine Programmierfähigkeiten, bevorzugt in der Programmiersprache Java.
 
 Meinen vollständigen Lebenslauf finden Sie [hier](LEBENSLAUF.md).
 
