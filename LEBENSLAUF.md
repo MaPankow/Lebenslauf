@@ -9,9 +9,9 @@
 
 
 ## Profil
-Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hatte ich öfter Berührung mit Webseiten und Web-Anwendungen. Für mich war es an der Zeit, die geheimnisvolle Welt dahinter zu entdecken und zu lernen, was im Backend vor sich geht. Im Rahmen einer Weiterbildung bin ich erste Schritte in die Welt der Progammierung von Anwendungen und Datenbanken sowie das Datenbankdesign gegangen. Von hier aus möchte ich mich weiter einarbeiten und mir nach und nach bei der Arbeit Fachkenntnisse aneignen und vertiefen.
+Während meiner Zeit als selbständige Illustratorin, Designerin und Autorin hatte ich öfter Berührung mit Webseiten und Web-Anwendungen. Ich hatte selbst für mein Protfolio eine Webseite sowie einen Blog erstellt, diese alllerdings mit dem Content-Management-System WordPress. Für mich war es an der Zeit, die geheimnisvolle Welt dahinter zu entdecken und zu lernen, was im Backend vor sich geht. Im Rahmen einer Weiterbildung bin ich erste Schritte in die Welt der Progammierung von Anwendungen und Datenbanken sowie das Datenbankdesign gegangen. Von hier aus möchte ich mich weiter einarbeiten und mir nach und nach Fachkenntnisse aneignen und vertiefen.
 
-Als Pforte zur Programmierung für Web-Apps möchte ich mich hierbei auf die Programmiersprache Java konzentrieren. Außerdem habe ich ein Interesse an der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
+Als Pforte zur Programmierung von mobilen Apps konzentriere ich mich hierbei auf die Programmiersprache Java. Zusätzlich habe ich ein Interesse an der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
 
 ## Programmierkenntnisse
 **Programmiersprachen:** **Java,** **SQL,** Python, PHP, JavaScript
@@ -29,6 +29,7 @@ Als Pforte zur Programmierung für Web-Apps möchte ich mich hierbei auf die Pro
 	- Code-Versionierung mit GitHub
 	- Übungsprojekt Anwendung für Django: https://github.com/MaPankow/Restaurant-Django-exercise
 	- Übungsprojekt Anwendung für Java Spring: https://github.com/MaPankow/Orders-Spring-exercise
+	- Zertifikat: [Zertifikat Backend-Entwicklerin](/src/Zertifikat_Backend_Bergemann_und_Hoehne.pdf)
 
 2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - vrsl. 11.11.2024):**
 	- Datenbanken MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
@@ -39,14 +40,14 @@ Als Pforte zur Programmierung für Web-Apps möchte ich mich hierbei auf die Pro
 	- Grundlagen des Projektmanagents (Aufbau, starre und agile Modelle, SCRUM-Methode)
 	
 
-
-
 ### Online-Kurse bei codecademy.com
 - Code Foundations (24.08.2024): [Zertifikat Code Foundations](/src/code_foundations.pdf)
 - Java intro (24.08.2024): [Zertifikat Java Intro](/src/Java_intro.pdf)
 
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
+
+
 
 ### Berufliche  Kenntnisse
 - **Adobe Creative Cloud** (insbesondere Illustrator und InDesign, sonst Photoshop, Fresco, Lightroom und Grundkenntnisse in Video- und Audioschnittprogrammen)
