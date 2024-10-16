@@ -4,7 +4,7 @@
 **Wohnort:** Berlin
 **Geburtsdatum:** 09.11.1985
 
-![Foto von Martina Sophie Pankow](src/MaPankow.jpg)
+
 
 
 
