@@ -26,7 +26,7 @@ Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Ent
 1. **Modul Backend-Developer (11.03.2024 - 09.07.2024):** 
 	- Programmiersprachen Java, Python, PHP, JavaScript
 	- Frameworks Spring, Django, Laravel, NodeJs
-	- Code-Versionierung mit GitHub
+	- Code-Versionierung mit Git
 	- Übungsprojekt Anwendung für Django: https://github.com/MaPankow/Restaurant-Django-exercise
 	- Übungsprojekt Anwendung für Java Spring: https://github.com/MaPankow/Orders-Spring-exercise
 	- Zertifikat: [Zertifikat Backend-Entwicklerin](/src/Zertifikat_Backend_Bergemann_und_Hoehne.pdf)
