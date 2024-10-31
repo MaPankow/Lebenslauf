@@ -95,7 +95,7 @@ Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Ent
 - hohe Auffassungsgabe
 - Engagement
 - lebenslanges Lernen
-- Hilfsbereitschaft
+- analytisches/strukturiertes Denken
 
 ## Hobbys und Interessen
 - Wandern und neue Orte entdecken
