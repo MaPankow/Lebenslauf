@@ -5,19 +5,18 @@
 **Geburtsdatum:** 09.11.1985
 
 
-
-
-
 ## Profil
-Nach dem Studium für Kommunikationsdesign arbeitete ich als selbständige Illustratorin, Designerin und Autorin und hatte öfter Berührung mit dem Erstellen von Webseiten. Um mich online zu präsentieren, erstellte ich mein Portfolio und einen Blog, damals mit dem Content-Management-System WordPress. Nun ist für mich die Zeit und endgültige Faszination gekommen, richtig in die Welt des Programmierens einzusteigen und zu lernen, was im Backend von Web-Anwendungen vor sich geht und wie man mit Programmiersprachen programmiert. Im Rahmen einer Weiterbildung bin ich erste Schritte in Richtung Backend-Entwicklung und Datenbankdesign gegangen.
+Nach meinem Studium im Bereich Kommunikationsdesign war ich lange Zeit als selbstständige Illustratorin, Designerin und Autorin tätig. Die Arbeit an ganzheitlichen Projekten hat mich immer fasziniert, was mich schließlich dazu bewog, den Schritt in die Webentwicklung zu wagen. In einer Weiterbildung, die Module wie Backend- und Datenbankentwicklung umfasste, erwarb ich fundiertes Wissen über Programmiersprachen, Datenbanken und die Tools der Backend-Entwicklung.
 
-Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Entwicklung mobiler Apps kennen und konzentriere mich jetzt darauf, Java grundlegend zu erlernen. Zusätzlich habe ich ein großes Interesse an SQL und der Strukturierung von Datenbanken und an Datenbankmanagementsystemen entwickelt.
+Im Anschluss absolvierte ich ein Praktikum, in dem ich mit Next.js und Tailwind CSS meine ersten Schritte in der Frontend-Entwicklung machte. Dabei konnte ich lernen, wie man Daten über eine API vom Frontend ins Backend speichert und zurückgibt.
+
+Aktuell vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um noch schneller in der Lage zu sein, spannende Projekte mitzugestalten und zu unterstützen.
 
 ## Programmierkenntnisse
-**Programmiersprachen:** **Java,** **SQL,** Python, PHP, JavaScript
+**Programmiersprachen:** **JavaScript,** **SQL,** Python, PHP, Java
 **Datenbanken:** MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
-**Frameworks:** **Spring,** Django, Laravel, NodeJS
-**Tools:** VS Code, Git, GitHub, Obsidian, Postman
+**Frameworks:** **Next.js,** Django, Laravel, Spring
+**Tools:** VS Code, Git, GitHub, Postman
 
 ## Zertifikate für Backend-Entwicklung, Programmiersprachen und Datenbankenentwicklung
 
@@ -31,7 +30,7 @@ Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Ent
 	- Übungsprojekt Anwendung für Java Spring: https://github.com/MaPankow/Orders-Spring-exercise
 	- Zertifikat: [Zertifikat Backend-Entwicklerin](/src/Zertifikat_Backend_Bergemann_und_Hoehne.pdf)
 
-2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - vrsl. 11.11.2024):**
+2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - 11.11.2024):**
 	- Datenbanken MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
 	- Datenbankdesign und Modellierung
 	- Übungsprojekt MariaDB und SQLite: https://github.com/MaPankow/Artivity---Datenbankenprojekt-mit-MariaDB-und-SQLite
@@ -40,9 +39,9 @@ Dabei lernte ich unter anderem Java als Programmiersprache und Pforte in die Ent
 	- Grundlagen des Projektmanagements (Einführung in traditionelle und agile Modelle, SCRUM)
 	
 
-### Online-Kurse bei codecademy.com
+<!-- ### Online-Kurse bei codecademy.com
 - Code Foundations (24.08.2024): [Zertifikat Code Foundations](/src/code_foundations.pdf)
-- Java intro (24.08.2024): [Zertifikat Java Intro](/src/Java_intro.pdf)
+- Java intro (24.08.2024): [Zertifikat Java Intro](/src/Java_intro.pdf) -->
 
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
