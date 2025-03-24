@@ -6,7 +6,7 @@
 
 
 ## Profil
-Nach meinem Studium im Bereich Kommunikationsdesign war ich lange Zeit als selbstständige Illustratorin, Designerin und Autorin tätig. Die Arbeit an ganzheitlichen Projekten hat mich immer fasziniert, was mich schließlich dazu bewog, den Schritt in die Webentwicklung zu wagen. In einer Weiterbildung, die Module wie Backend- und Datenbankentwicklung umfasste, erwarb ich fundiertes Wissen über Programmiersprachen, Datenbanken und die Tools der Backend-Entwicklung.
+Nach meinem Studium im Bereich Kommunikationsdesign war ich lange Zeit als selbstständige Illustratorin, Designerin und Autorin tätig. Die Arbeit an ganzheitlichen Projekten hat mich immer fasziniert, was mich schließlich dazu bewog, den Schritt in die Webentwicklung zu wagen. In einer Weiterbildung, die Module wie Backend- und Datenbankentwicklung umfasste, erwarb ich fundiertes Wissen in Programmiersprachen, Datenbanken und den Tools der Backend-Entwicklung.
 
 Im Anschluss absolvierte ich ein Praktikum, in dem ich mit Next.js und Tailwind CSS meine ersten Schritte in der Frontend-Entwicklung machte. Dabei konnte ich lernen, wie man Daten über eine API vom Frontend ins Backend speichert und zurückgibt.
 
@@ -18,30 +18,31 @@ Aktuell vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um noc
 **Frameworks:** **Next.js,** Django, Laravel, Spring
 **Tools:** VS Code, Git, GitHub, Postman
 
-## Zertifikate für Backend-Entwicklung, Programmiersprachen und Datenbankenentwicklung
+## 03.02. - 14.03.2025: Praktikum bei IT’s Ambio AG als Softwareentwicklerin im Bereich Webentwicklung
 
-### von 03/2024 bis 11/2024: Weiterbildung bei Bergemann & Höhne
+**Entwicklung einer Buchungsplattform mit Next.js:**
+- Frontend-Gestaltung mit Tailwind CSS
+- Verarbeitung der Daten im Backend
+- Anschluss einer REST-API
+Eine Beschreibung des Projektes befindet sich in der Datei [PROJEKTE](PROJEKTE.md).
+
+
+## von 03/2024 bis 11/2024: Weiterbildung bei Bergemann & Höhne
+
+Eine Übersicht über die Projektarbeiten befindet sich in der Datei [PROJEKTE](PROJEKTE.md).
 
 1. **Modul Backend-Developer (11.03.2024 - 09.07.2024):** 
 	- Programmiersprachen Java, Python, PHP, JavaScript
 	- Frameworks Spring, Django, Laravel, NodeJs
 	- Code-Versionierung mit Git
-	- Übungsprojekt Anwendung für Django: https://github.com/MaPankow/Restaurant-Django-exercise
-	- Übungsprojekt Anwendung für Java Spring: https://github.com/MaPankow/Orders-Spring-exercise
-	- Zertifikat: [Zertifikat Backend-Entwicklerin](/src/Zertifikat_Backend_Bergemann_und_Hoehne.pdf)
+	
 
 2. **Modul Datenbankentwicklung und Projektmanagement (22.07.2024 - 11.11.2024):**
 	- Datenbanken MySQL, SQLite, MariaDB, PostgreSQL, MongoDB
 	- Datenbankdesign und Modellierung
-	- Übungsprojekt MariaDB und SQLite: https://github.com/MaPankow/Artivity---Datenbankenprojekt-mit-MariaDB-und-SQLite
-	- Übungsprojekt PostgreSQL: https://github.com/MaPankow/PostgreSQL_Onlineshop
-	- Übungsprojekt MongoDB: https://github.com/MaPankow/MongoDB_Rezepte_Social_Network
 	- Grundlagen des Projektmanagements (Einführung in traditionelle und agile Modelle, SCRUM)
 	
 
-<!-- ### Online-Kurse bei codecademy.com
-- Code Foundations (24.08.2024): [Zertifikat Code Foundations](/src/code_foundations.pdf)
-- Java intro (24.08.2024): [Zertifikat Java Intro](/src/Java_intro.pdf) -->
 
 
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
@@ -59,12 +60,10 @@ Aktuell vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um noc
 ### Projekte als Autorin, Illustratorin und Grafikerin
 - **Jugendbuchprojekt Berlin Overload:** 
 	- zweiteilige Climate-Fiction-Serie
-	- Themen: Klimawandel, soziale Ausgrenzung, Rechtsextremismus, Coming-of-Age
 	- Illustration der Hauptfiguren
 	- Rohfassungen der Manuskripte sind in Überarbeitung
 - **Jugendbuchprojekt Colin:** 
 	- zweiteilige Fantasyserie
-	- Themen: Coming-of-Age, Hochbegabung, Selbstvertrauen, sektiererische Bewegung, Ausgrenzung
 	- Illustration der Hauptfiguren
 	- Rohfassungen der Manuskripte sind in Überarbeitung
 - **Blog [Stadtkönigin](https://www.stadtkoenigin.de/)** 
