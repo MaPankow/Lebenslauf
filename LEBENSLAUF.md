@@ -1,16 +1,16 @@
 ## Persönliche Daten
 
 **Name:** Martina Sophie Pankow
+
 **Wohnort:** Berlin
-**Geburtsdatum:** 09.11.1985
+
+**E-Mail:** [martinapankow@posteo.de](mailto:martinapankow@posteo.de)
 
 
 ## Profil
-Nach meinem Studium im Bereich Kommunikationsdesign war ich lange Zeit als selbstständige Illustratorin, Designerin und Autorin tätig. Die Arbeit an ganzheitlichen Projekten hat mich immer fasziniert, was mich schließlich dazu bewog, den Schritt in die Webentwicklung zu wagen. In einer Weiterbildung, die Module wie Backend- und Datenbankentwicklung umfasste, erwarb ich fundiertes Wissen in Programmiersprachen, Datenbanken und den Tools der Backend-Entwicklung.
+Nach meinem Studium im Bereich Kommunikationsdesign war ich als selbstständige Illustratorin, Grafikdesignerin und Autorin tätig. 2024 entschloss ich mich, meine beruflichen Fähigkeiten in die Webentwicklung zu erweitern. 
 
-Im Anschluss absolvierte ich ein Praktikum, in dem ich mit Next.js und Tailwind CSS meine ersten Schritte in der Frontend-Entwicklung machte. Dabei konnte ich lernen, wie man Daten über eine API vom Frontend ins Backend speichert und zurückgibt.
-
-Aktuell vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um noch schneller in der Lage zu sein, spannende Projekte mitzugestalten und zu unterstützen.
+In einer 8-monatigen Weiterbildung erwarb ich fundierte Kenntnisse in Backend- und Datenbankentwicklung. Im Anschluss sammelte ich praktische Erfahrungen im Frontend mit Next.js und Tailwind CSS. Derzeit vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um aktiv spannende Projekte mitzugestalten.
 
 ## Programmierkenntnisse
 **Programmiersprachen:** **JavaScript,** **SQL,** Python, PHP, Java
@@ -20,7 +20,7 @@ Aktuell vertiefe ich meine Kenntnisse in React, Next.js und UX/UI-Design, um noc
 
 ## 03.02. - 14.03.2025: Praktikum bei IT’s Ambio AG als Softwareentwicklerin im Bereich Webentwicklung
 
-**Entwicklung einer Buchungsplattform mit Next.js:**
+**Meine Hauptaufgabe war die Entwicklung einer Buchungsplattform mit Next.js:**
 - Frontend-Gestaltung mit Tailwind CSS
 - Verarbeitung der Daten im Backend
 - Anschluss einer REST-API
@@ -48,10 +48,10 @@ Eine Übersicht über die Projektarbeiten befindet sich in der Datei [PROJEKTE](
 ## Kenntnisse und Projekte als Illustratorin, Designerin und Autorin
 
 ### Berufliche Kenntnisse
-- **Adobe Creative Cloud:** insbesondere Illustrator und InDesign, sonst Photoshop, Fresco, Lightroom und Grundkenntnisse in Video- und Audioschnittprogrammen
+- **Adobe Creative Cloud:** insbesondere Illustrator und InDesign, außerdem Photoshop, Fresco, Lightroom und Grundkenntnisse in Video- und Audioschnittprogrammen
 - **Illustration per Hand und digital:** Lernmaterialien für Kinder und Erwachsene, Sympathiefiguren, Kinder- und Jugendbuch
-- **Layout und Druckvorbereitung für eine Zeitschrift** sowie redaktionelle Mitarbeit und Absprache mit den AutorInnen
-- **Illustratorin und Autorin des Kinderbuches "Der Traum vom großen Paradies",** erschienen beim Abent(h)euer Verlag; Präsentation des Buches bei Lesungen und einer Fortbildung für Lehrkräfte sowie Ausstellung und Lesung beim Kunstfestival 48 Stunden Neukölln
+- **Layout und Druckvorbereitung für eine Zeitschrift** sowie redaktionelle Mitarbeit und Absprache mit den AutorInnen für mehrere Ausgaben
+- **Illustratorin und Autorin des Kinderbuches "Der Traum vom großen Paradies",** erschien 2015 beim Abent(h)euer Verlag; Präsentation des Buches bei Lesungen und einer Fortbildung für Lehrkräfte sowie Ausstellung und Lesung beim Kunstfestival 48 Stunden Neukölln
 - **Kundenakquise:** Präsentation meiner Arbeiten auf Buch- und Bildungsmessen, auf Social Media sowie auf meinen Websites
 - **Übersicht über meine Arbeiten und Projekte:** [Online-Portfolio](https://www.msp-world.de/)
 
