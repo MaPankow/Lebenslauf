@@ -2,6 +2,12 @@
 
 Meinen vollständigen Lebenslauf finden Sie [hier](LEBENSLAUF.md).
 
+## Frontend-Apps mit React
+Nach der Weiterbildung und durch das Praktikum habe ich – technisch gesehen – meine Richtung gefunden und baue meine Fertigkeiten gezielt weiter aus. Hierfür nutze ich Codecademy, das sogenannte Skill Paths anbietet, an deren Ende vollständige Projekte stehen.
+Im Rahmen des Skill Paths „Create a Front-End App with React“ habe ich derzeit zwei Projekte veröffentlicht. Beide sind mit React und CSS umgesetzt und nutzen externe APIs:
+- Jammming: https://github.com/MaPankow/jammming (aktuell in Bearbeitung)
+- Ravenous: https://github.com/MaPankow/ravenous
+
 
 ## Projekt Buchungsplattform für eine medizinische Veranstaltung
 
