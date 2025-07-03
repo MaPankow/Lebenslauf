@@ -1,10 +1,10 @@
 # Willkommen auf meinem GitHub-Portfolio
 
-Ich bin Martina Pankow, Fullstack-Entwicklerin mit einem kreativen Background. Mit meinen technischen und gestalterischen Fähigkeiten möchte ich Webprojekte gestalten, die einen Unterschied machen.
+Ich bin Martina Pankow, Fullstack-Entwicklerin mit einem kreativen Background. Nach meiner Zeit im Illustrations- und Designbereich entdecke ich die vielseitigen Möglichkeiten der Webentwicklung und suche nun den Einstieg mit dem Wunsch, an Projekten mitzuwirken, die einen positiven Beitrag leisten.
 
 Mein aktueller Tech-Stack umfasst JavaScript, React und Next.js. Zusätzlich bringe ich Erfahrung mit Tailwind CSS, SQL und Datenbankdesign mit.
 
-Nach meiner Zeit im Illustrations- und Designbereich entdecke ich begeistert die vielseitigen Möglichkeiten der Webentwicklung.
+
 
 ## Lebenslauf
 
@@ -12,7 +12,7 @@ Meinen Lebenslauf findest du hier: [Lebenslauf](LEBENSLAUF.md)
 
 ## Projekte
 
-Eine Auswahl meiner bisherigen Projekte findest du hier: [Projekte](PROJEKTE.md)
+Eine Auswahl meiner Projekte findest du hier: [Projekte](PROJEKTE.md)
 
 ## Kontakt
 
