@@ -8,6 +8,9 @@ Im Rahmen des Skill Paths „Create a Front-End App with React“ habe ich derze
 - Jammming: https://github.com/MaPankow/jammming (aktuell in Bearbeitung)
 - Ravenous: https://github.com/MaPankow/ravenous
 
+## Übungsprojekte Codecademy
+Ich habe beschlossen, ab jetzt nicht nur die Portfolio-Projekte von Codecademy zu zeigen, sondern auch kleinere Projekte, die Teil der Kurse sind, damit man sehen kann, was ich die ganze Zeit lerne und mache.
+- JavaScript Imports/Exports: https://github.com/MaPankow/WorkAround-Explorer
 
 ## Projekt Buchungsplattform für eine medizinische Veranstaltung
 
