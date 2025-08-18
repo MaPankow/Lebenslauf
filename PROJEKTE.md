@@ -3,11 +3,15 @@
 Meinen vollständigen Lebenslauf findest du [hier](LEBENSLAUF.md).
 
 ## Frontend-Apps mit React
-Nach der Weiterbildung und durch das Praktikum habe ich meine Richtung gefunden und baue meine Fertigkeiten gezielt weiter aus. Hierfür nutze ich Codecademy, das sogenannte Skill Paths anbietet, an deren Ende vollständige Projekte stehen.
+Nach der Weiterbildung und durch das Praktikum habe ich meine Richtung gefunden und baue meine Fertigkeiten gezielt weiter aus. Hierfür nutze ich Codecademy, das sogenannte Skill Paths anbietet, an deren Ende vollständige Portfolio-Projekte stehen.
 Im Rahmen des Skill Paths „Create a Front-End App with React“ habe ich derzeit zwei Projekte veröffentlicht. Beide sind mit React und CSS umgesetzt und nutzen externe APIs:
-- Jammming: https://github.com/MaPankow/jammming (aktuell in Bearbeitung)
-- Ravenous: https://github.com/MaPankow/ravenous
+- Jammming (Webanwendung, mit der man Playlisten erstellen und im Profil speichern kann): https://github.com/MaPankow/jammming (aktuell in Bearbeitung)
+- Ravenous (Plattform zur Recherche von Restaurants): https://github.com/MaPankow/ravenous
 
+## Codecademy Übungsprojekte
+Übungsprojekte auf Codecaemy, die sich auf spezifische Themen konzentrieren.
+ - JavaScript Imports und Exports: https://github.com/MaPankow/WorkAround-Explorer
+ 
 
 ## Projekt Buchungsplattform für eine medizinische Veranstaltung
 
